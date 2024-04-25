@@ -6,6 +6,7 @@
     - Số căn cước (id)
     - Ngày, tháng, năm sinh (day of birth)
 
-![idcardOCRv2.png](.\asset\idcardOCRv2.png)
+# Basic pipeline
+![idcardOCRv2.png](./asset/idcardOCRv2.png)
 
 # Detail document in progress …
